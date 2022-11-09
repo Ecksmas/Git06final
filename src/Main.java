@@ -4,5 +4,8 @@ public class Main {
 
         Car car = new Car();
         car.openDoor();
+
+        Fuel fuel = new Fuel();
+        fuel.noFuel();
     }
 }
